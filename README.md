@@ -35,23 +35,23 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 ## Curriculum
 
 ### Introduction to Data Science
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[What is Data Science](https://www.coursera.org/learn/what-is-datascience) | ✅
 
 ### Introduction to Computer Science
 _Students who already know basic programming in any language can skip this first course_
 
-[Python for Everybody](https://www.py4e.com/) 
+[Python for Everybody](https://www.py4e.com/)  | ✅
 
-[Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[Introduction to Computer Science and Programming Using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | ✅
 
-[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | ✅
 
 ### Data Structures and Algorithms
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
 
 [Java Programming](https://java-programming.mooc.fi/)
 
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | ✅
 
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
@@ -62,7 +62,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational)
 
-[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools)
+[Business Intelligence Concepts, Tools, and Applications](https://www.coursera.org/learn/business-intelligence-tools) | ✅
 
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
